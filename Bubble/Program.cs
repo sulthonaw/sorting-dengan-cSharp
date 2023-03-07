@@ -1,10 +1,4 @@
-﻿/*
-
-array = 0-18-10-10-4-5-20-4-11-15-6-2-17-8-18-16-17-16-20-4;
-
-*/
-
-namespace Sorting
+﻿namespace Sorting
 {
     class BubbleSort
     {

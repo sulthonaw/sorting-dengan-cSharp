@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a4LWnkHGbAMdt74QqgrFY4KyRB3yb/KIjxmqa52v1wCmAm3Z5uBYuBgeoS9yK3E78nILC1R5eKnsVffQDPK84Q==",
+  "dgSpecHash": "8rVXe07aS6h9xgxMtSjO3nfFWZQpag45xFDEqufqFXOCXiNhem+zjPcd7EeDStj0yl9UTVrmzA/i/TVlK8DUCA==",
   "success": true,
-  "projectFilePath": "D:\\dotnet\\SortingC#\\Bubble\\Bubble.csproj",
+  "projectFilePath": "D:\\github\\sorting-dengan-cSharp\\Bubble\\Bubble.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
