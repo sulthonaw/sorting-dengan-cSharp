@@ -31,7 +31,7 @@
                 }
             }
 
-            Console.WriteLine("\n== SESUDAH ==");
+            Console.WriteLine("\n\n== SESUDAH ==");
             foreach (int item in arr)
             {
                 Console.Write($"{item} ");
