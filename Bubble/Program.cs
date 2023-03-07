@@ -10,7 +10,7 @@
 
         static void BubbleInt(int[] arr)
         {
-            Console.WriteLine("== SEBELUM ==");
+            Console.WriteLine("\n== SEBELUM ==");
             foreach (int item in arr)
             {
                 Console.Write($"{item} ");
@@ -29,7 +29,7 @@
                 }
             }
 
-            Console.WriteLine("\n== SESUDAH ==");
+            Console.WriteLine("\n\n== SESUDAH ==\n");
             foreach (int item in arr)
             {
                 Console.Write($"{item} ");
