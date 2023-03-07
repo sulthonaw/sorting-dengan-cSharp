@@ -1,0 +1,15 @@
+D:\dotnet\SortingC#\Bubble\bin\Debug\net7.0\Bubble.exe
+D:\dotnet\SortingC#\Bubble\bin\Debug\net7.0\Bubble.deps.json
+D:\dotnet\SortingC#\Bubble\bin\Debug\net7.0\Bubble.runtimeconfig.json
+D:\dotnet\SortingC#\Bubble\bin\Debug\net7.0\Bubble.dll
+D:\dotnet\SortingC#\Bubble\bin\Debug\net7.0\Bubble.pdb
+D:\dotnet\SortingC#\Bubble\obj\Debug\net7.0\Bubble.csproj.AssemblyReference.cache
+D:\dotnet\SortingC#\Bubble\obj\Debug\net7.0\Bubble.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\SortingC#\Bubble\obj\Debug\net7.0\Bubble.AssemblyInfoInputs.cache
+D:\dotnet\SortingC#\Bubble\obj\Debug\net7.0\Bubble.AssemblyInfo.cs
+D:\dotnet\SortingC#\Bubble\obj\Debug\net7.0\Bubble.csproj.CoreCompileInputs.cache
+D:\dotnet\SortingC#\Bubble\obj\Debug\net7.0\Bubble.dll
+D:\dotnet\SortingC#\Bubble\obj\Debug\net7.0\refint\Bubble.dll
+D:\dotnet\SortingC#\Bubble\obj\Debug\net7.0\Bubble.pdb
+D:\dotnet\SortingC#\Bubble\obj\Debug\net7.0\Bubble.genruntimeconfig.cache
+D:\dotnet\SortingC#\Bubble\obj\Debug\net7.0\ref\Bubble.dll
