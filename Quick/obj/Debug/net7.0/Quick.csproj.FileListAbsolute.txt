@@ -1,0 +1,15 @@
+D:\github\sorting-dengan-cSharp\Quick\bin\Debug\net7.0\Quick.exe
+D:\github\sorting-dengan-cSharp\Quick\bin\Debug\net7.0\Quick.deps.json
+D:\github\sorting-dengan-cSharp\Quick\bin\Debug\net7.0\Quick.runtimeconfig.json
+D:\github\sorting-dengan-cSharp\Quick\bin\Debug\net7.0\Quick.dll
+D:\github\sorting-dengan-cSharp\Quick\bin\Debug\net7.0\Quick.pdb
+D:\github\sorting-dengan-cSharp\Quick\obj\Debug\net7.0\Quick.csproj.AssemblyReference.cache
+D:\github\sorting-dengan-cSharp\Quick\obj\Debug\net7.0\Quick.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\sorting-dengan-cSharp\Quick\obj\Debug\net7.0\Quick.AssemblyInfoInputs.cache
+D:\github\sorting-dengan-cSharp\Quick\obj\Debug\net7.0\Quick.AssemblyInfo.cs
+D:\github\sorting-dengan-cSharp\Quick\obj\Debug\net7.0\Quick.csproj.CoreCompileInputs.cache
+D:\github\sorting-dengan-cSharp\Quick\obj\Debug\net7.0\Quick.dll
+D:\github\sorting-dengan-cSharp\Quick\obj\Debug\net7.0\refint\Quick.dll
+D:\github\sorting-dengan-cSharp\Quick\obj\Debug\net7.0\Quick.pdb
+D:\github\sorting-dengan-cSharp\Quick\obj\Debug\net7.0\Quick.genruntimeconfig.cache
+D:\github\sorting-dengan-cSharp\Quick\obj\Debug\net7.0\ref\Quick.dll

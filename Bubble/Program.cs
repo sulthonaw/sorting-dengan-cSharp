@@ -10,7 +10,8 @@
 
         static void BubbleInt(int[] arr)
         {
-            Console.WriteLine("\n== SEBELUM ==");
+            // menampilkan list item pada array ke console
+            Console.WriteLine("== SEBELUM ==");
             foreach (int item in arr)
             {
                 Console.Write($"{item} ");
@@ -29,7 +30,8 @@
                 }
             }
 
-            Console.WriteLine("\n\n== SESUDAH ==\n");
+            // menampilkan list item pada array ke console
+            Console.WriteLine("\n\n== SESUDAH ==");
             foreach (int item in arr)
             {
                 Console.Write($"{item} ");

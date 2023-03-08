@@ -1,0 +1,15 @@
+D:\github\sorting-dengan-cSharp\Merge\bin\Debug\net7.0\Merge.exe
+D:\github\sorting-dengan-cSharp\Merge\bin\Debug\net7.0\Merge.deps.json
+D:\github\sorting-dengan-cSharp\Merge\bin\Debug\net7.0\Merge.runtimeconfig.json
+D:\github\sorting-dengan-cSharp\Merge\bin\Debug\net7.0\Merge.dll
+D:\github\sorting-dengan-cSharp\Merge\bin\Debug\net7.0\Merge.pdb
+D:\github\sorting-dengan-cSharp\Merge\obj\Debug\net7.0\Merge.csproj.AssemblyReference.cache
+D:\github\sorting-dengan-cSharp\Merge\obj\Debug\net7.0\Merge.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\sorting-dengan-cSharp\Merge\obj\Debug\net7.0\Merge.AssemblyInfoInputs.cache
+D:\github\sorting-dengan-cSharp\Merge\obj\Debug\net7.0\Merge.AssemblyInfo.cs
+D:\github\sorting-dengan-cSharp\Merge\obj\Debug\net7.0\Merge.csproj.CoreCompileInputs.cache
+D:\github\sorting-dengan-cSharp\Merge\obj\Debug\net7.0\Merge.dll
+D:\github\sorting-dengan-cSharp\Merge\obj\Debug\net7.0\refint\Merge.dll
+D:\github\sorting-dengan-cSharp\Merge\obj\Debug\net7.0\Merge.pdb
+D:\github\sorting-dengan-cSharp\Merge\obj\Debug\net7.0\Merge.genruntimeconfig.cache
+D:\github\sorting-dengan-cSharp\Merge\obj\Debug\net7.0\ref\Merge.dll

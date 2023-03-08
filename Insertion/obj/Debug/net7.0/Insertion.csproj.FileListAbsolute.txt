@@ -1,0 +1,15 @@
+D:\github\sorting-dengan-cSharp\Insertion\bin\Debug\net7.0\Insertion.exe
+D:\github\sorting-dengan-cSharp\Insertion\bin\Debug\net7.0\Insertion.deps.json
+D:\github\sorting-dengan-cSharp\Insertion\bin\Debug\net7.0\Insertion.runtimeconfig.json
+D:\github\sorting-dengan-cSharp\Insertion\bin\Debug\net7.0\Insertion.dll
+D:\github\sorting-dengan-cSharp\Insertion\bin\Debug\net7.0\Insertion.pdb
+D:\github\sorting-dengan-cSharp\Insertion\obj\Debug\net7.0\Insertion.csproj.AssemblyReference.cache
+D:\github\sorting-dengan-cSharp\Insertion\obj\Debug\net7.0\Insertion.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\sorting-dengan-cSharp\Insertion\obj\Debug\net7.0\Insertion.AssemblyInfoInputs.cache
+D:\github\sorting-dengan-cSharp\Insertion\obj\Debug\net7.0\Insertion.AssemblyInfo.cs
+D:\github\sorting-dengan-cSharp\Insertion\obj\Debug\net7.0\Insertion.csproj.CoreCompileInputs.cache
+D:\github\sorting-dengan-cSharp\Insertion\obj\Debug\net7.0\Insertion.dll
+D:\github\sorting-dengan-cSharp\Insertion\obj\Debug\net7.0\refint\Insertion.dll
+D:\github\sorting-dengan-cSharp\Insertion\obj\Debug\net7.0\Insertion.pdb
+D:\github\sorting-dengan-cSharp\Insertion\obj\Debug\net7.0\Insertion.genruntimeconfig.cache
+D:\github\sorting-dengan-cSharp\Insertion\obj\Debug\net7.0\ref\Insertion.dll
